@@ -1,8 +1,6 @@
 var player1Random= Math.floor((Math.random()*6)+1);
 var player2Random= Math.floor((Math.random()*6)+1);
 
-alert(player1Random);
-alert(player2Random);   
 
 if(player1Random==player2Random)
 {
